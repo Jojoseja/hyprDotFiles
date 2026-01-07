@@ -1,0 +1,49 @@
+.nav-folder-title[data-path="Curso/Acceso a Datos"] {
+    color: black;
+    background-color: #FF5E5E;
+}
+
+.nav-folder-title[data-path="Curso/Digitalización"] {
+    color: black;
+    background-color: #FF9159;
+}
+
+.nav-folder-title[data-path="Curso/Inglés"] {
+    color: black;
+    background-color: #FFC65C;
+}
+
+.nav-folder-title[data-path="Curso/Interfaces"] {
+    color: black;
+    background-color: #9FCC2E;
+}
+
+.nav-folder-title[data-path="Curso/IPE 2"] {
+    color: black;
+    background-color: #33CC99;
+}
+
+.nav-folder-title[data-path="Curso/Movil"] {
+    color: black;
+    background-color: #28CDCD;
+}
+
+.nav-folder-title[data-path="Curso/PSP"] {
+    color: black;
+    background-color: #2B8BCD;
+}
+
+.nav-folder-title[data-path="Curso/Python"] {
+    color: black;
+    background-color: #5E6AFF;
+}
+
+.nav-folder-title[data-path="Curso/Sistemas"] {
+    color: black;
+    background-color: #8C5EFF;
+}
+
+.nav-folder-title[data-path="Curso/Sostenibilidad"] {
+    color: black;
+    background-color: #FF53CC;
+}
