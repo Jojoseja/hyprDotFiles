@@ -1,9 +1,11 @@
 #!/bin/bash
 
-CON = "$HOME/.config/"
+CON="$HOME/.config/"
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 mkdir -p $CON
 
-cp -r homeFolder/* $HOME
+cp -r "$SCRIPT_DIR/homeFolder/." "$HOME/"
 
-cp -r config/* $CON
+cp -r "$SCRIPT_DIR/config/." "$CON/"
