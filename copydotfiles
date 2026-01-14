@@ -1,0 +1,9 @@
+#!/bin/bash
+
+CON = "$HOME/.config/"
+
+mkdir -p $CON
+
+cp -r homeFolder/* $HOME
+
+cp -r config/* $CON
